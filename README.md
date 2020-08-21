@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg
+- 🌱 I’m currently learning C <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c_logo" width="25" height="25" </img>
 
 <!--
 **osalmine/osalmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
