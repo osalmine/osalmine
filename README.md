@@ -1,4 +1,4 @@
-## <a href="https://osalmine.github.io/cv/">Onni Salminen</a>
+<h1> <a href="https://osalmine.github.io/cv/">Onni Salminen</a></h1>
 <a href="https://www.linkedin.com/in/onni-salminen/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 - 🌱 I’m currently learning C <a href="https://www.hive.fi/en/">@hive</a> and React, NodeJs, Python and Go by myself :octocat:
