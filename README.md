@@ -7,7 +7,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 14 August, 2020 - 21 August, 2020
+
+CSS    49 mins         ████████████░░░░░░░░░░░░░   48.37 % 
+HTML   38 mins         █████████▒░░░░░░░░░░░░░░░   37.95 % 
+C      13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 % 
 ```
 <!--END_SECTION:waka-->
 
