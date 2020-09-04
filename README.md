@@ -9,12 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 August, 2020 - 02 September, 2020
+Week: 27 August, 2020 - 03 September, 2020
 
-C            9 hrs 3 mins    ███████████████████████▓░   94.81 % 
-Makefile     27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+C            8 hrs 22 mins   ███████████████████████▓░   94.64 % 
+Makefile     26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 <!--END_SECTION:waka-->
 
