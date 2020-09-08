@@ -9,10 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 August, 2020 - 06 September, 2020
+Week: 31 August, 2020 - 07 September, 2020
 
-C            5 hrs 21 mins   ████████████████████████▒   96.73 % 
-Makefile     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+C            5 hrs 10 mins   ████████████████████████░   96.59 % 
+Makefile     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
