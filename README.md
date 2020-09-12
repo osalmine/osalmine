@@ -9,10 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 September, 2020 - 10 September, 2020
+Week: 04 September, 2020 - 11 September, 2020
 
-C          4 hrs 24 mins   ███████████████████████▓░   95.09 % 
-Other      13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+C          5 hrs 8 mins    ████████████████████████░   95.77 % 
+Other      13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 ```
 <!--END_SECTION:waka-->
 
