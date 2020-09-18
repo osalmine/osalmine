@@ -9,11 +9,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 September, 2020 - 16 September, 2020
+Week: 10 September, 2020 - 17 September, 2020
 
-C       3 hrs 55 mins   ███████████████████▓░░░░░   78.47 % 
-CSS     46 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Other   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+C            1 hr 21 mins    ██████████████░░░░░░░░░░░   55.85 % 
+CSS          46 mins         ████████░░░░░░░░░░░░░░░░░   31.80 % 
+Other        13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
 <!--END_SECTION:waka-->
 
