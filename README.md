@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 September, 2020 - 25 September, 2020
+Week: 19 September, 2020 - 26 September, 2020
 
 C            3 hrs 21 mins   █████████████░░░░░░░░░░░░   52.60 % 
 JSX          1 hr 40 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.16 % 
