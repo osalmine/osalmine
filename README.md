@@ -9,13 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 September, 2020 - 03 October, 2020
+Week: 27 September, 2020 - 04 October, 2020
 
-C            48 mins         ████████▓░░░░░░░░░░░░░░░░   34.84 % 
-JavaScript   47 mins         ████████▓░░░░░░░░░░░░░░░░   34.17 % 
-CSS          30 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.39 % 
-Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-JSX          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+JavaScript   31 mins         ████████████████████████▓   98.55 % 
 ```
 <!--END_SECTION:waka-->
 
