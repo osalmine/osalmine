@@ -9,10 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2020 - 06 October, 2020
+Week: 30 September, 2020 - 07 October, 2020
 
-C          5 hrs 21 mins   ████████████████████████░   96.28 % 
-Makefile   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+C          6 hrs 41 mins   ████████████████████████░   96.19 % 
+Makefile   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
 
