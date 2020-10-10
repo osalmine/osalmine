@@ -9,11 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 October, 2020 - 08 October, 2020
+Week: 02 October, 2020 - 09 October, 2020
 
-C          6 hrs 41 mins   ████████████████████████░   96.19 % 
-Makefile   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+C          6 hrs 55 mins   ████████████████████████░   96.31 % 
+Makefile   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 <!--END_SECTION:waka-->
 
