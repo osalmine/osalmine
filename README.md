@@ -9,9 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2020 - 15 October, 2020
+Week: 09 October, 2020 - 16 October, 2020
 
-C            3 hrs 34 mins   █████████████████████████   99.74 % 
+C            3 hrs 20 mins   █████████████████████████   99.72 % 
 ```
 <!--END_SECTION:waka-->
 
