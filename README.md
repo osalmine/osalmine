@@ -9,10 +9,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 October, 2020 - 19 October, 2020
+Week: 13 October, 2020 - 20 October, 2020
 
-C            3 hrs 19 mins   ████████████████████████▒   97.49 % 
-Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+C            1 hr 52 mins    ██████████████████▓░░░░░░   74.52 % 
+Other        30 mins         █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+JSX          5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 <!--END_SECTION:waka-->
 
