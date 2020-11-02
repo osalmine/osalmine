@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2020 - 31 October, 2020
+Week: 25 October, 2020 - 01 November, 2020
 
 C            6 hrs 24 mins   █████████████████▒░░░░░░░   68.98 % 
 Makefile     1 hr 33 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.76 % 
