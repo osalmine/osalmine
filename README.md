@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning C <a href="https://www.hive.fi/en/">@hive</a> and React, NodeJs, Python and Go by myself :octocat:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=osalmine&count_private=true&show_icons=true&theme=graywhite&hide=issues,stars)
+[![Hive Heslinki stats](https://badge42.herokuapp.com/api/stats/osalmine?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 <!--START_SECTION:waka-->
 ```text
@@ -15,5 +15,6 @@ C          6 hrs 15 mins   █████████████████�
 Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 <!--END_SECTION:waka-->
+
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
