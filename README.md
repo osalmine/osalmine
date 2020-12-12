@@ -9,13 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 December, 2020 - 10 December, 2020
+Week: 04 December, 2020 - 11 December, 2020
 
-C            6 hrs 24 mins   █████████████████▒░░░░░░░   68.98 % 
-Makefile     1 hr 33 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Other        1 hr 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-JSX          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+C          6 hrs 15 mins   ████████████████████████▓   99.29 % 
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 ```
 <!--END_SECTION:waka-->
 
