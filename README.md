@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 December, 2020 - 22 December, 2020
+Week: 16 December, 2020 - 23 December, 2020
 
 C          6 hrs 15 mins   ████████████████████████▓   99.29 % 
 Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
