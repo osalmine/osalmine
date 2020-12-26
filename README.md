@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning C <a href="https://www.hive.fi/en/">@hive</a> and React, NodeJs, Python and Go by myself :octocat:
 
-[![Hive Heslinki stats](https://badge42.herokuapp.com/api/stats/osalmine?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![Hive Helsinki stats](https://badge42.herokuapp.com/api/stats/osalmine?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 <!--START_SECTION:waka-->
 ```text
