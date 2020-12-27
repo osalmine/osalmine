@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2020 - 25 December, 2020
+Week: 19 December, 2020 - 26 December, 2020
 
 JSX          7 hrs 20 mins   ███████████░░░░░░░░░░░░░░   44.18 % 
 C            5 hrs 48 mins   ████████▓░░░░░░░░░░░░░░░░   34.88 % 
