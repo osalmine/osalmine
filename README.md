@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2020 - 05 January, 2021
+Week: 30 December, 2020 - 06 January, 2021
 
 JSX          7 hrs 20 mins   ███████████░░░░░░░░░░░░░░   44.18 % 
 C            5 hrs 48 mins   ████████▓░░░░░░░░░░░░░░░░   34.88 % 
