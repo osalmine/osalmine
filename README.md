@@ -9,13 +9,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2021 - 21 January, 2021
+Week: 15 January, 2021 - 22 January, 2021
 
-C            7 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   37.32 % 
-TypeScript   7 hrs 10 mins   █████████░░░░░░░░░░░░░░░░   35.96 % 
-Python       2 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Bash         1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-JSON         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript   10 hrs 49 mins  ██████████▒░░░░░░░░░░░░░░   41.34 % 
+C            9 hrs 31 mins   █████████░░░░░░░░░░░░░░░░   36.41 % 
+Python       2 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Bash         1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+JSON         53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 ```
 <!--END_SECTION:waka-->
 
