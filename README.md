@@ -9,13 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2021 - 19 February, 2021
+Week: 13 February, 2021 - 20 February, 2021
 
-TypeScript   16 hrs 3 mins   █████████████▒░░░░░░░░░░░   52.83 % 
-C            6 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.55 % 
-Python       2 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-CSS          1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-JSON         1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+C            5 hrs 10 mins   ████████████████████████░   96.59 % 
+Makefile     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 ```
 <!--END_SECTION:waka-->
 
