@@ -9,12 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 March, 2021 - 31 March, 2021
+Week: 25 March, 2021 - 01 April, 2021
 
-C             3 hrs 47 mins   █████████████████████▓░░░   87.29 % 
-Makefile      15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Objective-C   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Text          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+C             2 hrs 37 mins   ███████████████████████▓░   94.92 % 
+Objective-C   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Makefile      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 <!--END_SECTION:waka-->
 
