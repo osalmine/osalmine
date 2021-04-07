@@ -4,16 +4,8 @@
 <br />
 
 - 🌱 I’m currently learning C <a href="https://www.hive.fi/en/">@hive</a> and React, NodeJs, Python and Go by myself :octocat:
+- 🚀 Interning at <a href="https://wolt.com/">Wolt</a>
 
 [![Hive Helsinki stats](https://badge42.herokuapp.com/api/stats/osalmine?privacyEmail=true&cursus=42)](https://github.com/JaeSeoKim/badge42)
-
-<!--START_SECTION:waka-->
-```text
-Week: 30 March, 2021 - 06 April, 2021
-
-
-```
-<!--END_SECTION:waka-->
-
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
