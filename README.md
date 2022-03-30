@@ -3,8 +3,8 @@
 <br />
 <br />
 
-- 🌱 I’m currently learning C <a href="https://www.hive.fi/en/">@hive</a> and React, NodeJs, Python and Go by myself :octocat:
-- 🚀 Interning at <a href="https://wolt.com/">Wolt</a>
+- 🚀 Software engineer at <a href="https://wolt.com/">Wolt</a>
+- 🌱 <a href="https://www.hive.fi/en/">Hive Helsinki</a> alumni
 
 [![Hive Helsinki stats](https://badge42.herokuapp.com/api/stats/osalmine?privacyEmail=true&cursus=42)](https://github.com/JaeSeoKim/badge42)
 
