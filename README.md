@@ -6,6 +6,6 @@
 - 🚀 Software engineer at <a href="https://wolt.com/">Wolt</a>
 - 🌱 <a href="https://www.hive.fi/en/">Hive Helsinki</a> alumni
 
-[![Hive Helsinki stats](https://badge42.herokuapp.com/api/stats/osalmine?privacyEmail=true&cursus=42)](https://github.com/JaeSeoKim/badge42)
+[![osalmine's Hive Helsinki stats](https://badge42.vercel.app/api/v2/cl2gijtz7003009mofz5pnp5t/stats?cursusId=1&coalitionId=56)](https://github.com/JaeSeoKim/badge42)
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
