@@ -18,6 +18,8 @@ Outer circle (advanced) projects:
 
 [computorV1](https://github.com/osalmine/computorV1)
 
-[![osalmine's Hive Helsinki stats](https://badge42.vercel.app/api/v2/cl2gijtz7003009mofz5pnp5t/stats?cursusId=1&coalitionId=56)](https://github.com/JaeSeoKim/badge42)
+[red-tetris](https://github.com/osalmine/red-tetris)
+
+[![osalmine's 42 stats](https://badge42.vercel.app/api/v2/cl2gijtz7003009mofz5pnp5t/stats?cursusId=21&coalitionId=56)](https://github.com/JaeSeoKim/badge42)
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
