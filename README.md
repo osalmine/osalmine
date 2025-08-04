@@ -3,7 +3,7 @@
 <br />
 <br />
 
-- 🚀 Software engineer at <a href="https://wolt.com/">Wolt</a>
+- 🚀 Software engineer at <a href="https://solu.bio/">Solu</a>
 - 🌱 <a href="https://www.hive.fi/en/">Hive Helsinki</a> alumni
 
 School projects chronological order:
